@@ -6,6 +6,6 @@
 
 https://formulario-javascript.vercel.app/
 
-<p align=center>
+<p align="center">
 ![](deploy.gif)
 </p>
