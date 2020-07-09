@@ -2,14 +2,17 @@
 
 <p> Esse formulário faz parte de um dos exercícios do Curso de JavaScript do básico ao avançado (com TypeScript) na plataforma Udemy. </p>
 
-http://github.com - automatic!
-[Deploy do Formulário](https://formulario-javascript.vercel.app/)
+<p>
+[Deploy do Formulário](https://formulario-j - automatic!avascript.vercel.app/)
+</p>
+
+## Conteúdos básicos aplicados:
+
+- array
+- object
+- function
 
 ![](deploy.gif)
 
-## Conteúdos aplicados:
 
-> array
-> object
-> function
 
