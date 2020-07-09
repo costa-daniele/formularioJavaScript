@@ -6,7 +6,7 @@ Esse formulário faz parte de um dos exercícios do Curso de JavaScript do bási
 Para ver a aplicação visite: [Deploy do Formulário](https://formulario-javascript.vercel.app/)
 
 
-## Conteúdos básicos aplicados:
+## Exercício de:
 
 - array
 - object
