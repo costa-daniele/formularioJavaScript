@@ -6,11 +6,12 @@ Esse formulário faz parte de um dos exercícios do Curso de JavaScript do bási
 Para ver a aplicação visite: [Deploy do Formulário](https://formulario-javascript.vercel.app/)
 
 
-## Exercício de:
+## Exercício:
 
-- array
-- object
-- function
+* array
+* object
+* function
+
 
 ![](deploy.gif)
 
