@@ -1,9 +1,9 @@
 ## Formulário com aplicação JavaScript
 
-<p> Esse formulário faz parte de um dos exercícios do Curso de JavaScript do básico ao avançado (com TypeScript) na plataforma Udemy. </p>
+Esse formulário faz parte de um dos exercícios do Curso de JavaScript do básico ao avançado (com TypeScript) na plataforma Udemy. 
 
 
-[Deploy do Formulário](https://formulario-javascript.vercel.app/)
+Para ver a aplicação visite: [Deploy do Formulário](https://formulario-javascript.vercel.app/)
 
 
 ## Conteúdos básicos aplicados:
